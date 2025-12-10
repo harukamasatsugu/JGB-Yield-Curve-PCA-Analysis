@@ -129,6 +129,3 @@ This analysis provides a foundation for further extensions such as:
 **Haruka Masatsugu**
 Economics Student | Quantitative Finance & Fixed-Income Modeling
 Interested in statistics, probability theory, and macro–quant methods.
-
----
-
