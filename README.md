@@ -121,11 +121,3 @@ This analysis provides a foundation for further extensions such as:
 * Nelson–Siegel–Svensson factor extraction
 * Macro regressions on Level/Slope/Curvature
 * Event studies around BOJ meetings
-
----
-
-##  **Author**
-
-**Haruka Masatsugu**
-Economics Student | Quantitative Finance & Fixed-Income Modeling
-Interested in statistics, probability theory, and quant trading methods.
